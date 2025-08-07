@@ -1,7 +1,7 @@
 
 body {
     color: white;
-    background: black;
+    background: rgba(2, 41, 148, 0.959);
 }header {
     border-bottom: solid 2px rgba(161, 7, 207, 0.76);
     padding: 20px;
