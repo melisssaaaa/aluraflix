@@ -2,4 +2,9 @@
 body {
     color: white;
     background: black;
+}header {
+    border-bottom: solid 2px rgba(161, 7, 207, 0.76);
+    padding: 20px;
+    font-size: 32px;
+    color: rgba(173, 28, 130, 0.966);
 }
